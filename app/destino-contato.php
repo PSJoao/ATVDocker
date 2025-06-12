@@ -2,6 +2,7 @@
 date_default_timezone_set('America/Sao_Paulo');
 
 require 'header.php';
+
 ?>
 
 <div class="inicio">
